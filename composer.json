@@ -1,0 +1,16 @@
+{
+	"name": "splagadou/tuto_composer",
+	"autoload": {
+		"psr-4": {
+			"App\\": "src/"
+		}
+	},
+	"authors": [
+		{
+			"name": "Benoît V",
+			"email": "benoit@vandanjon.fr"
+		}
+	],
+	"require": {}
+}
+
